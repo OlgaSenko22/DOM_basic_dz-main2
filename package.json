@@ -1,0 +1,22 @@
+{
+  "name": "dom_basic_dz-main",
+  "version": "1.0.0",
+  "description": "У нас есть дерево, структурированное как вложенные списки ul/li.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlgaSenko22/DOM_basic_dz-main2.git"
+  },
+  "keywords": [
+    "key"
+  ],
+  "author": "Olga Senko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlgaSenko22/DOM_basic_dz-main2/issues"
+  },
+  "homepage": "https://github.com/OlgaSenko22/DOM_basic_dz-main2#readme"
+}
