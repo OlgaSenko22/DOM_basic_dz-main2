@@ -1,0 +1,8 @@
+
+table {
+    margin: 0 auto;
+}
+table, tr, td {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
